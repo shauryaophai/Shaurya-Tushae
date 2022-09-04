@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryaophai&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaophai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shaurya tushar" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya tushar?logo=twitter&style=for-the-badge" alt="shaurya tushar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shaurya tushar" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya tushar?logo=twitter&style=for-the-badge" alt="@TusharShaurya" /></a> </p>
 
 - 🔭 I’m currently working on **learning new programming languages.**
 
